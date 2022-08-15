@@ -10,7 +10,7 @@
   
   •	Aplicar los conocimientos adquiridos de el teoreema de Superposicion, el Teorema de Thevenin y el teorema de maxima Transferencia de potencia, mediante la resolucion de ejericicios.
   
-  • Desarrollar los ejercicios propuestos en el laboratoria mediante la utilizacion de los simuladores Tinterkat y DCACLAB. 
+  • Desarrollar los ejercicios propuestos en el laboratoria mediante la utilizacion de los simuladores TINKERCAD y DCACLab. 
  
  2. MARCO TEORICO 
  
@@ -98,7 +98,7 @@ I = 3.78 mA
 
 P = I * V = 3.78 mA * 8.32 v 
 
-P= 31.44 mW
+P = 31.44 mW
 
 Calcular la potencia en el simulador de DCACLAB
 
@@ -109,13 +109,11 @@ Calcular la potencia en el simulador de DCACLAB
 
 5. CONCLUCIONES 
 
-• Como conclucion la ley de ohm establece que a corriente es directamente proporcional al voltaje e inversamente proporcional a la resistencia 
+• Como conclucion la el teorema de Superposicion nos facilita la resolucion de ejericicios con multiples fuentes de enrgia, pero tenemos tener en clara lo cuando tenemos una fuente de energia y una corrienten.
 
-•	Por tanto, se puede decir que la energía eléctrica se trasforma en calor, la energía es la capacidad de realizar trabajo mientras la potencia es la razón de cambio a la cual se utiliza la energía, la unidad de energía más utiliza es el kilowatt-hora mientras que la unidad de la potencia es el watt.
+•	Por tanto, se puede decir que el toerema de Thevenin nos permite simplicar un circuito complejo en una circuito mas simple, ya que con el circuito equivalente de thevenin se puede calcular el VTH y RTH, con los cuales se puede calcular la corriente y a su ves calcular la potencia. 
 
-•	Para sintetizar, el resistor disipa calor cuando a través de el circula una corriente, también sabemos que cuando se utiliza un resistor en un circuito su potencia nominal debe ser mayor que la potencia máxima, y para verificar si existe algún daño se utiliza el ohmmetro.
-
-•	En relación con lo antes expuesto, la caída del voltaje es la disminución del voltaje a través del resistor por una pérdida de energía, mientras la fuente de potencia suministra potencia a una carga, también conocemos que las baterías convierten energía química a en energía eléctrica por tanto las baterías tienen un tiempo de duración
+•	En relación con lo antes expuesto, los ejercicios propuesto son mucho mas faciles de realizar con la utilizacion de los simuladores, como son TINTERCAD Y DCACLab con los cuales se puede calcular de una manera mucho mas rapida si se aplica correctamente la teoria de los teoremas. 
 
 6. BIBLIOGRAFIA
 
