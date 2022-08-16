@@ -118,6 +118,13 @@ Calcular la potencia en el simulador de DCACLAB
 
 4. VIDEO
 
+Parte 1 
+
+https://youtu.be/G7bzTC02ve0
+
+Parte 2 
+
+https://youtu.be/tUeZIxcqNwc
 
 5. CONCLUCIONES 
 
