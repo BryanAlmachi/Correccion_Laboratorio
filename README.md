@@ -1,4 +1,4 @@
-# Laboratorio-Extra-
+# Correccion-Laboratorio
 
 1. OBEJTIVOS
 
