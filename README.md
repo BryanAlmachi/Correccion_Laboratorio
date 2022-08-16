@@ -128,11 +128,11 @@ https://youtu.be/tUeZIxcqNwc
 
 5. CONCLUCIONES 
 
-• Como conclucion la el teorema de Superposicion nos facilita la resolucion de ejericicios con multiples fuentes de enrgia, pero tenemos tener en clara lo cuando tenemos una fuente de energia y una corrienten.
+• Como conclucion el teorema de Superposicion nos facilita la resolucion de ejericicios con multiples fuentes de energia, pero debemos tener en claro cuando tenemos una fuente de energia y una corrienten, para la correcta aplicacion del teorema y por ende un correcto desarollo de los ejericicos.
 
-•	Por tanto, se puede decir que el toerema de Thevenin nos permite simplicar un circuito complejo en una circuito mas simple, ya que con el circuito equivalente de thevenin se puede calcular el VTH y RTH, con los cuales se puede calcular la corriente y a su ves calcular la potencia. 
+•	Por tanto, se puede decir que el toerema de Thevenin nos permite simplicar un circuito complejo en una circuito mas simple, ya que con el circuito equivalente de thevenin se puede calcular el VTH y RTH, con los cuales se puede calcular la corriente y a su ves calcular la potencia aplicacicando las diferentes formulas dependiendo de los datos que tengamos. 
 
-•	En relación con lo antes expuesto, los ejercicios propuesto son mucho mas faciles de realizar con la utilizacion de los simuladores, como son TINTERCAD Y DCACLab con los cuales se puede calcular de una manera mucho mas rapida si se aplica correctamente la teoria de los teoremas. 
+•	En relación con lo antes expuesto, los ejercicios propuesto son mucho mas faciles de realizar con la utilizacion de los simuladores, como son TINTERCAD Y DCACLab con los cuales se puede calcular de una manera mucho mas sencilla y rapida si se aplica correctamente la teoria de cada teoremas. 
 
 6. BIBLIOGRAFIA
 
