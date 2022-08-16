@@ -4,7 +4,7 @@
 
   Objetivo General 
   
-  •	Conocer los conceptos sobre el teorema de Superposicion, el Teorema de Thevenin y el teorema de maxima Transferencia de potencia, para tener un concepto claro de cada teorema y aplicarlos correctamente.
+  •	Conocer los conceptos sobre el teorema de Superposicion, el Teorema de Thevenin y la maxima Transferencia de potencia, para tener un concepto claro de cada teorema y aplicarlos correctamente.
   
   Objetivo Especifico   
   
