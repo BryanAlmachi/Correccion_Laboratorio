@@ -8,7 +8,7 @@
   
   Objetivo Especifico   
   
-  •	Aplicar los conocimientos adquiridos de el teoreema de Superposicion, el Teorema de Thevenin y el teorema de maxima Transferencia de potencia, mediante la resolucion de ejericicios.
+  •	Aplicar los conocimientos adquiridos del teoreema de Superposicion, el Teorema de Thevenin y la maxima Transferencia de potencia, mediante la resolucion de ejericicios.
   
   • Desarrollar los ejercicios propuestos en el laboratoria mediante la utilizacion de los simuladores TINKERCAD y DCACLab. 
  
