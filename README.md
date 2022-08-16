@@ -28,6 +28,8 @@ Pregunta 1
 
 ![image](https://user-images.githubusercontent.com/105255508/184713085-07cb66f1-97b9-45ad-8b6a-bd0bf768db7f.png)
 
+![image](https://user-images.githubusercontent.com/105255508/184779208-26277d1a-e2fb-4f02-9202-a44aaae6bab0.png)
+
 Resolución
 
 ![image](https://user-images.githubusercontent.com/105255508/184714279-585ff1db-c15f-4597-83bb-e11874314a05.png)
@@ -52,6 +54,8 @@ Pregunta 2
 
 ![image](https://user-images.githubusercontent.com/105255508/184711728-281f0aa2-076c-4747-8e9a-e3cb11ed1e7f.png)
 
+![image](https://user-images.githubusercontent.com/105255508/184779023-381386fb-a7d9-4eec-9aaa-e0f6c507e795.png)
+
 Resolución
 
 ![image](https://user-images.githubusercontent.com/105255508/184709697-7e75085d-4dd0-45c9-af55-8be1e202c9e4.png)
@@ -75,6 +79,8 @@ V= 6 V - 4.8 V = 1.2 v
 Pregunta 3
 
 ![image](https://user-images.githubusercontent.com/105255508/184716652-d28562f3-a4b9-4f04-b20d-476ce8fd6f57.png)
+
+![image](https://user-images.githubusercontent.com/105255508/184779477-f76999f5-c2e2-459e-8ce2-037cb8a71d4c.png)
 
 Resolución
 
