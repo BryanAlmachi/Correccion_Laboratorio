@@ -64,7 +64,7 @@ Resolución
 
 ![image](https://user-images.githubusercontent.com/105255508/184709697-7e75085d-4dd0-45c9-af55-8be1e202c9e4.png)
 
-•	Hacer la Fuente de energia de 16 v a 0 v
+•	Hacer la Fuente de energia de 10 v a 0 v
 
 ![image](https://user-images.githubusercontent.com/105255508/184710976-2bcc1460-3c7f-431b-a1a8-4ab8d9ac6d03.png)
 
