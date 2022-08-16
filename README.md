@@ -24,9 +24,11 @@ La Potencia máxima se trasfiere desde una fuente hasta una carga cuando la resi
 
 3. EXPLICACION Y RESOLUCION DE EJERICIOS O PROBLEMAS
 
-Pregunta 1
+3.1 Pregunta 1
 
 ![image](https://user-images.githubusercontent.com/105255508/184713085-07cb66f1-97b9-45ad-8b6a-bd0bf768db7f.png)
+
+3.1.1 Material y equipo requerido
 
 ![image](https://user-images.githubusercontent.com/105255508/184779208-26277d1a-e2fb-4f02-9202-a44aaae6bab0.png)
 
@@ -50,9 +52,11 @@ Realizar el circuito equivalente de Thevenin para calcular la intensidad
 
 ![image](https://user-images.githubusercontent.com/105255508/184716571-d7cfdc4c-d28f-4659-9115-807ff0115bb7.png)
 
-Pregunta 2
+3.2 Pregunta 2
 
 ![image](https://user-images.githubusercontent.com/105255508/184711728-281f0aa2-076c-4747-8e9a-e3cb11ed1e7f.png)
+
+3.2.1 Material y equipo requerido
 
 ![image](https://user-images.githubusercontent.com/105255508/184779023-381386fb-a7d9-4eec-9aaa-e0f6c507e795.png)
 
@@ -76,9 +80,11 @@ Voltaje
 
 V= 6 V - 4.8 V = 1.2 v
 
-Pregunta 3
+3.3 Pregunta 3
 
 ![image](https://user-images.githubusercontent.com/105255508/184716652-d28562f3-a4b9-4f04-b20d-476ce8fd6f57.png)
+
+3.3.1  Material y equipo requerido
 
 ![image](https://user-images.githubusercontent.com/105255508/184779477-f76999f5-c2e2-459e-8ce2-037cb8a71d4c.png)
 
