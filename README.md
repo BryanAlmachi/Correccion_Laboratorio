@@ -18,7 +18,7 @@
 
 ![image](https://user-images.githubusercontent.com/105255508/184707321-3930f62b-d3ab-417d-8708-ad66f3d833ac.png)
 
-Máxima Transferencia de Potencia
+Teorema de Máxima Transferencia de Potencia
 
 La Potencia máxima se trasfiere desde una fuente hasta una carga cuando la resistencia de la carga es igual a la resistencia interna de la fuente.
 
